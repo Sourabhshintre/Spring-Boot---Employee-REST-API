@@ -6,8 +6,11 @@ This is a Spring Boot application that provides RESTful API endpoints for managi
 
 # Features
 Create a new employee
+
 Retrieve employee information
+
 Update employee details
+
 Delete employee records
 
 # Getting Started
