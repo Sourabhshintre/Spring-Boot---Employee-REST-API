@@ -28,7 +28,7 @@ API Endpoints
 - PUT /employees/{id} - Update an employee's details by ID.
 - DELETE /employees/{id} - Delete an employee by ID.
 
-  Contributing
+## **Contributing**
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
 
 Happy coding!
